@@ -1,3 +1,8 @@
+//Zoe Eigenbrod
+//Project 2
+//Bankers Algorithm Demonstration
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
