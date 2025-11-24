@@ -23,7 +23,7 @@ g++ main.cpp -o bankers
 ```
 
 * `input.txt`: runs a **safe** state.
-* `input2.txt` → shows what an **unsafe** state would look like.
+* `input2.txt`: shows what an **unsafe** state would look like.
 
 Example:
 
