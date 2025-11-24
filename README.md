@@ -25,15 +25,3 @@ g++ main.cpp -o bankers
 * `input.txt`: runs a **safe** state.
 * `input2.txt`: shows what an **unsafe** state would look like.
 
-Example:
-
-```bash
-./bankers input.txt
-# Output: System is in a SAFE state
-# Safe sequence: P0 -> P1 -> P2 -> P3 -> P4
-```
-
-```bash
-./bankers input2.txt
-# Output: System is in an UNSAFE state
-```
