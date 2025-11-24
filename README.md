@@ -13,13 +13,13 @@
 ### 1. Compile
 
 ```bash
-g++ main.cpp -o bankers
+g++ main.cpp -o bankersalg
 ```
 
 ### 2. Run
 
 ```bash
-./bankers input.txt
+./bankersalg input.txt
 ```
 
 * `input.txt`: runs a **safe** state.
