@@ -25,3 +25,9 @@ If system is safe, a safe sequence of process execution is displayed. If unsafe,
 * Marks processes when they can complete.
 * Updates available resources as processes finish.
 * From there, determine if the system can finish all processes without deadlock.
+
+
+### Answer to Canvas Question
+
+System is in a safe state.
+Safe sequence: P3 -> P4 -> P1 -> P2 -> P0
