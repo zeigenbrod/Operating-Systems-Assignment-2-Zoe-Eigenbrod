@@ -2,11 +2,11 @@
 
 ## Description
 
-This program demonstrates the **Banker’s Algorithm** for resource allocation in operating systems. It was written in C++.
+This program implements the **Banker’s Algorithm** for resource allocation. It was written in C++.
 
-The program reads matrices representing **Allocation**, **Maximum**, and **Available** resources from an input file. It calculates the **Need** matrix and determines whether the system is in a **safe state** or an **unsafe state**.
+Reads matrices representing **Allocation**, **Maximum**, and **Available** resources from an input file. It calculates the **Need** matrix and determines whether the system is in a **safe state** or an **unsafe state**.
 
-If the system is safe, a **safe sequence** of process execution is displayed. If unsafe, the program reports that no safe sequence exists.
+If system is safe, a **safe sequence** of process execution is displayed. If unsafe, the program reports that no safe sequence exists.
 
 ## Components
 
