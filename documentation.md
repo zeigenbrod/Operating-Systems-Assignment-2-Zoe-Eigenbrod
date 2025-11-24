@@ -4,6 +4,8 @@
 
 This program implements the Banker’s Algorithm for resource allocation. It was written in C++.
 
+The Banker’s Algorithm is used in operating systems to avoid deadlocks. It makes sure the system never gives out resources in a way that could leave some processes stuck forever.
+
 Reads matrices representing Allocation, Maximum, and Available resources from an input file. It calculates the **Need** matrix and determines whether the system is in a safe state or an unsafe state.
 
 If system is safe, a safe sequence of process execution is displayed. If unsafe, the program reports that no safe sequence exists.
